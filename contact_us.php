@@ -1,4 +1,4 @@
-<?php require_once( 'ZtV67$&&!UjP/cms.php' ); ?>
+<?php require_once( '//' ); ?>
 <!doctype html>
 
 <!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
